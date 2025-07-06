@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "691853100347",
+    "project_id": "procedimentos-f1737",
+    "storage_bucket": "procedimentos-f1737.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691853100347:android:4889d2211287231b06e31e",
+        "android_client_info": {
+          "package_name": "com.example.procedimentos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjSq3hgnQD_atNBBD4himK5-mTabPw3_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
