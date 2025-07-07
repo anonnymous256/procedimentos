@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// Classe para gerenciar cores do app
 class AppColors {
   // Tons principais
   static const Color azulPrincipal = Color(0xFF1E88E5);     // Azul vibrante
